@@ -9,7 +9,7 @@
 현실의 결과물로 완성하는 과정을 좋아합니다.
 </p>
 
-[![Notion Portfolio](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-3c984bb1d49380f6b486d9b807994f46?source=copy_link)
+[![Notion Portfolio](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-3d084bb1d49380bbb281f465977c37c9?source=copy_link)
 [![GitHub Repositories](https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heon000)
 [![Email Contact](https://img.shields.io/badge/Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggamci2001@example.com)
 
@@ -93,5 +93,5 @@
 
 ## Links
 
-- **Notion Portfolio**: https://app.notion.com/p/Portfolio-3c984bb1d49380f6b486d9b807994f46?source=copy_link
+- **Notion Portfolio**: https://app.notion.com/p/Portfolio-3d084bb1d49380bbb281f465977c37c9?source=copy_link
 - **GitHub**: https://github.com/heon000
